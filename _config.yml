@@ -1,7 +1,7 @@
 # Site settings
 title: Vitória Finest Cuts
 email: vitoriafinestcuts@domain.com
-url: https://jhonysc43.github.io/melhorescortes/
+url: "https://jhonysc43.github.io/melhorescortes/"
 description: Na Vitórias Finest Cuts, acreditamos que cada homem merece o melhor. Nossos serviços personalizados vão além do simples corte de cabelo e barba. Aqui, é sobre cuidar da aparência e também proporcionar um momento de relaxamento e bem-estar.
 keywords: "your keywords, separated by commas"
 skills: Estilo e elegância em cada corte, uma vitória em cada cliente.
@@ -34,7 +34,7 @@ color:
 footer:
   copyright: Jhonatan Dev.
   location: Brasil
-  social: @jhonysc43
+  social: jhonysc43
   credits: copyright
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
