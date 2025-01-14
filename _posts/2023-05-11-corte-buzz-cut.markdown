@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2023-05-11
-img: circus.png
+img: corte_buzz.png
 alt: image-alt
 project-date: April 2014
 cliente: Robson
